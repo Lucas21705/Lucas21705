@@ -30,7 +30,7 @@
  <ul>
   <li>Email: lmmcyrus3@gmail.com</li>
   <li>Phone: +54 11-3514-7252</li>
-  <li>LinkedIn: https://www.linkedin.com/in/lucas-mi%C3%B1o-31b3a4317/</li>
+  <li>LinkedIn: www.linkedin.com/in/lucas-miño-31b3a4317</li>
  </ul>
   </p>
 
