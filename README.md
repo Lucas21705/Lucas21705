@@ -15,9 +15,9 @@
 ### 🚀 Tecnologías y Herramientas:
 
 - **Frontend**: React, Next.js, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3
-- **Backend**: Node.js, Express, API REST, GraphQL
-- **Bases de Datos**: MongoDB, PostgreSQL, MySQL
-- **Herramientas y Entornos**: Git, GitHub, Docker, Webpack
+- **Backend**: Node.js, Express, API REST
+- **Bases de Datos**: MongoDB, PostgreSQL
+- **Herramientas y Entornos**: Git, GitHub, Webpack
 - **Otros**: Redux, Context API, JWT (autenticación), LocalStorage, SweetAlert2
 
 ---
