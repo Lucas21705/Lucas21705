@@ -8,7 +8,7 @@
 
 <h2 align="center">Desarrollador Full Stack | Frontend Enthusiast </h2> 
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado por la creación de soluciones innovadoras, eficientes y escalables. Me encanta explorar nuevas tecnologías y trabajar en proyectos que desafían mis habilidades. Aquí podrás encontrar algunos de mis proyectos y colaboraciones.
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado por la creación de soluciones innovadoras, eficientes y escalables. Me encanta explorar nuevas tecnologías y trabajar en proyectos que desafían mis habilidades. Aquí podrás encontrar algunas de las herramientas que utilizo.
 
 ---
 
